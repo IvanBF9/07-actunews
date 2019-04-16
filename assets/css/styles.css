@@ -1,0 +1,28 @@
+
+.foot {
+    text-align: center;
+}
+
+.topaccueil {
+    text-align: center;
+}
+
+.topaccueil h1 {
+    font-size: 65px;
+    margin: 0;
+}
+
+.esportnews {
+    font-size: 30px;
+}
+@media (max-width: 991px) {
+    .top {
+
+    }
+}
+
+@media (max-width: 767.98px) {
+    .recherche {
+        width: 80%;
+    }
+}
